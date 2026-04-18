@@ -1,0 +1,11 @@
+URL,True Label,Predicted,Confidence,Correct
+https://www.google.com/search?q=python,Legitimate,Legitimate,4.19%,✓
+http://secure-paypal-login.tk/verify/account,Phishing,Phishing,99.99%,✓
+https://github.com/user/repo,Legitimate,Legitimate,0.01%,✓
+http://192.168.1.100/amazon/signin.php,Phishing,Phishing,100.00%,✓
+https://www.microsoft.com/en-us/security,Legitimate,Legitimate,6.58%,✓
+http://paypal-secure.xyz/login?redirect=billing,Phishing,Phishing,97.10%,✓
+https://stackoverflow.com/questions/12345,Legitimate,Phishing,85.31%,✗
+http://bit.ly/3xK9mPq,Phishing,Phishing,96.43%,✓
+https://www.bbc.co.uk/news/technology,Legitimate,Legitimate,3.04%,✓
+http://ebay-account-verify.ga/update-payment,Phishing,Phishing,99.99%,✓

@@ -1,0 +1,74 @@
+{
+  "Logistic Regression": {
+    "model_name": "Logistic Regression",
+    "accuracy": 0.9975,
+    "precision": 1.0,
+    "recall": 0.9955,
+    "f1": 0.9978,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "inference_time_ms": 0.0004,
+    "cv_f1_mean": 0.9982,
+    "cv_f1_std": 0.0003
+  },
+  "Decision Tree": {
+    "model_name": "Decision Tree",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "inference_time_ms": 0.0002,
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0
+  },
+  "Random Forest": {
+    "model_name": "Random Forest",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "inference_time_ms": 0.08,
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0
+  },
+  "XGBoost": {
+    "model_name": "XGBoost",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "inference_time_ms": 0.0018,
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0
+  },
+  "MLP Neural Network": {
+    "model_name": "MLP Neural Network",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "inference_time_ms": 0.0012,
+    "cv_f1_mean": 0.9997,
+    "cv_f1_std": 0.0004
+  },
+  "PhishGuard Ensemble": {
+    "model_name": "PhishGuard Ensemble",
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "inference_time_ms": 0.1267,
+    "cv_f1_mean": 1.0,
+    "cv_f1_std": 0.0
+  }
+}
